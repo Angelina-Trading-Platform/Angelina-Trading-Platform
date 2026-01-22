@@ -1,4 +1,4 @@
-[RU](README.ru.md)
+[🇷🇺 RU](README.ru.md)
 
 <img src="./docs/logo-readme.png" style="max-width:256px;">
 
